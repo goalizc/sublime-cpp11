@@ -1353,6 +1353,12 @@
 				</dict>
 				<dict>
 					<key>match</key>
+					<string>\#\d*[\d;]</string>
+					<key>name</key>
+					<string>constant.other.placeholder.c++.tstring</string>
+				</dict>
+				<dict>
+					<key>match</key>
 					<string>%</string>
 					<key>name</key>
 					<string>invalid.illegal.placeholder.c++</string>
