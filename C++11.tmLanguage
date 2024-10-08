@@ -104,7 +104,7 @@
         </dict>
         <dict>
             <key>match</key>
-            <string>\b(asm|__asm__|auto|bool||char|_Complex|double|enum|float|_Imaginary|int|long|short|signed|struct|typedef|union|unsigned|void|size_t|int8_t|int16_t|int32_t|int64_t|uint8_t|uint16_t|uint32_t|uint64_t|char16_t|char32_t)\b</string>
+            <string>\b(asm|__asm__|auto|bool||char|_Complex|double|enum|float|_Imaginary|int|long|short|signed|struct|typedef|union|unsigned|void|size_t|ssize_t|int8_t|int16_t|int32_t|int64_t|uint8_t|uint16_t|uint32_t|uint64_t|char16_t|char32_t)\b</string>
             <key>name</key>
             <string>storage.type.c++</string>
         </dict>
